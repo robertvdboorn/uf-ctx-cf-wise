@@ -1,0 +1,8 @@
+{
+  "exportDir": "./scripts",
+  "saveFile": true,
+  "contentFile": "export.json",
+  "downloadAssets": true
+}
+
+contentful space import --space-id aa3ysk8vk7dj --content-file ./scripts/export.json
